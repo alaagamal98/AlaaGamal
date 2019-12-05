@@ -4,7 +4,7 @@
 * Email: alaagamal.98@gmail.com :love_letter:
 * [Github](https://github.com/alaagamal98) :octocat:
 * <a href="https://www.facebook.com/alaagamaall" target="_blank"> Facebook </a> 
-* <a href="https://alaagamal98.github.io/ThoracicSurgery/" target="_blank"> Blog </a>
+* <a href="https://salmazakariia.github.io/ThoracicSurgery/" target="_blank"> Blog </a>
 ## Education:
 * **Cairo University** 
    * *Faculty of Engineering* 
